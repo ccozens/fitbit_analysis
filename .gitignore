@@ -9,7 +9,7 @@ credentials.py
 # do not upload fitbit cloned repo or test files
 /python-fitbit/
 /working/
-/.DS_Store/
+**.DS_Store/
 /.vscode/
 
 # github template from here
